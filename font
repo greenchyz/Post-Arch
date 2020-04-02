@@ -1,0 +1,1 @@
+Sometimes problems with certain characters not displaying due to unicode characters not covered in certain fonts using a font such as http://unifoundry.com/unifont/index.html can help resolve this issue as it covers more character sets 
